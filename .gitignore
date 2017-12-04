@@ -1,0 +1,3 @@
+/.bundle
+/database/*.sqlite3
+/.vscode

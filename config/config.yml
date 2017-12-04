@@ -1,0 +1,7 @@
+
+oauth_token_url: 'https://oauth.apitest.cc.ncu.edu.tw/oauth/token/info'
+personnel_info_url: 'https://apitest.cc.ncu.edu.tw/personnel/v1/info/'
+x_ncu_api_token: 'b72a70bed9e9e2399bf6a73bfaa66e565a039752f625a27c31a8b11bcc755f8e698ed9cc071da64cf5e1fc290afaff20e0bb88660dd41b21345197d135f2df04'
+scopes:
+  - sop.sop.write
+  - sop.mark.write
