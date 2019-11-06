@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rack', '~> 1.6.0'
+gem 'rack', '~> 1.6.11'
 gem 'rack-cors'
 gem 'grape', '~> 0.17.0'
 gem 'grape-entity', '~> 0.5.1'
