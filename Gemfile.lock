@@ -58,7 +58,7 @@ GEM
     otr-activerecord (1.2.1)
       activerecord (>= 4.0, < 5.1)
       hashie-forbidden_attributes (~> 0.1)
-    rack (1.6.4)
+    rack (1.6.11)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-cors (1.0.2)
@@ -94,7 +94,7 @@ DEPENDENCIES
   grape-entity (~> 0.5.1)
   mysql2
   otr-activerecord (~> 1.2.1)
-  rack (~> 1.6.0)
+  rack (~> 1.6.11)
   rack-cors
   rack-test
   rake
